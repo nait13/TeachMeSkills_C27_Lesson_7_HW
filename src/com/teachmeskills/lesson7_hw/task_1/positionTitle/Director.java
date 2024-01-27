@@ -1,6 +1,10 @@
 package com.teachmeskills.lesson7_hw.task_1.positionTitle;
 
-import com.teachmeskills.lesson7_hw.task_1.IPositionPrinter;
+import com.teachmeskills.lesson7_hw.task_1.iPositionPrinter.IPositionPrinter;
+
+/**
+ * This class contains descriptions of the Director object
+ */
 
 public class Director implements IPositionPrinter {
     String positionAtWork = "Director";

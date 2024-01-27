@@ -4,6 +4,9 @@ import com.teachmeskills.lesson7_hw.task_1.positionTitle.*;
 
 import java.util.Scanner;
 
+/**
+ * This class of execution
+ */
 
 public class Runner {
     public static void main(String[] args) {
